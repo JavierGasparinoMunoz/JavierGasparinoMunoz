@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Javier</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=javiergasparinomunoz&label=Profile%20views&color=0e75b6&style=flat" alt="javiergasparinomunoz" /> </p>
-
 - 🌱 I’m currently learning **Software Engineering Degree**
 
 - 📫 How to reach me **javiergasparinomunoz@gmail.com**
@@ -15,8 +13,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiergasparinomunoz&show_icons=true&locale=en&layout=compact" alt="javiergasparinomunoz" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javiergasparinomunoz&show_icons=true&locale=en" alt="javiergasparinomunoz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=javiergasparinomunoz&" alt="javiergasparinomunoz" /></p>
-
 
