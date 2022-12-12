@@ -13,7 +13,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=javiergasparinomunoz&show_icons=true&locale=en&layout=compact" alt="javiergasparinomunoz" /></p>
 
-<p></p>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=javiergasparinomunoz&show_icons=true&locale=en" alt="javiergasparinomunoz" /></p>
 
